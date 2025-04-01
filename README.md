@@ -3,7 +3,7 @@
 Elegant Context is a practice project where I explore global state management in **React 19** using **useContext** and **useReducer** hooks. This project implements a simple dashboard with a cart system, allowing users to add, increase, and decrease cart items dynamically.
 
 ## 📸 Screenshots
-![Project Dashboard](https://github.com/AqibNiazi/elegant-context/blob/main/screenshot/main-page.png)
+![Project Dashboard](https://github.com/AqibNiazi/elegant-context/blob/main/public/main-page.png)
 
 ## 🚀 Features
 - ⚡ Global state management using **useContext** and **useReducer**.
